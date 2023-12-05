@@ -1,0 +1,130 @@
+* {
+    border: 0px;
+    margin: 0px;
+    text-decoration: none;
+}
+
+#link-list {
+    padding: 0px;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    font-size: 25px;
+}
+
+h1 {
+    font-size: 45px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+h4 {
+    font-size: 35px;
+}
+
+#menu {
+    width: 20vw;
+    height: 100vh;
+    background-color: rgb(166, 166, 166);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#link-list {
+    list-style-type: none;
+}
+
+#link-list li {
+    padding: 0px;
+    margin: 10px;
+    background-color: white;
+    width: 15vw;
+    padding: 20px;
+    text-align: center;
+    font-size: 20px;
+    text-decoration: none;
+
+}
+
+ #link-list li:hover {
+    background-color: grey;
+}
+
+.info-page {
+    width: 80vw;
+    height: 100vh;
+    background-color: white;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    overflow: scroll;
+    text-align: center;
+}
+
+
+
+
+#opening-and-closing {
+    visibility: visible;
+}
+
+#storage-areas {
+    visibility: visible;
+}
+
+#seating-and-saftey-restraints {
+    visibility: visible;
+}  
+
+#connectivity {
+    visibility: visible;
+}
+
+#driving {
+    visibility: visible;
+}
+
+#autopilot {
+    visibility: visible;
+}
+
+p, h1, h2, h4 {
+    margin: 40px;
+}
+
+.list {
+    text-align: left;
+    margin-left: 20vw;
+    font-size: 25px;
+    overflow: auto;
+    width: 50%
+}
+
+.img-top {
+    height: 175px;
+    width: 175px;
+    position: absolute;
+    top: 0px;
+    left: 60px;
+}
+
+#link-list a:visited {
+    color: black;
+}
+
+#link-list a:link {
+    color: black;
+}
+
+
+
+
+
+
